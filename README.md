@@ -15,6 +15,6 @@ There are some pirates, who went into a jungle for hunting. And now they have lo
 - Version : 1.0.2
 - Size : 62.1 MB
 - Operating System : Android
-- Download Link: Click Here
+- Download Link: [Click Here](https://drive.google.com/file/d/10L8-weBd51s98VEdO5bwSdYEDWYazdQ1/view?usp=sharing)
 
 [website]: https://gadgetguys.in
