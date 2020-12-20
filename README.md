@@ -1,6 +1,6 @@
 # Pirates-in-Jungle 
 ### Developed by 
-<br> [![Website](https://img.shields.io/website?label=gadgetguys.in&style=for-the-badge&url=https%3A%2F%2Fgadgetguys.in)](https://gadgetguys.in)
+[![Website](https://img.shields.io/website?label=gadgetguys.in&style=for-the-badge&url=https%3A%2F%2Fgadgetguys.in)](https://gadgetguys.in)
 <br>This is an android mobile game, based on a pirate theme story. Check out more from the game from here: https://gadgetguys.in/pirates-in-jungle-android-game
 
 ## About the Game
