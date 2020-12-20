@@ -1,7 +1,9 @@
 # Pirates-in-Jungle 
 ### Developed by 
 [![Website](https://img.shields.io/website?label=gadgetguys.in&style=for-the-badge&url=https%3A%2F%2Fgadgetguys.in)](https://gadgetguys.in)
-<br>This is an android mobile game, based on a pirate theme story. Check out more from the game from here: https://gadgetguys.in/pirates-in-jungle-android-game
+<br>This is an android mobile game, based on a pirate theme story. Check out more from the game from here: [Click Here] (https://gadgetguys.in/pirates-in-jungle-android-game)
+
+[<img align="center" alt="Pirates-in-Jungle" src="https://gadgetguys.in/wp-content/uploads/2020/12/logo.png">]
 
 ## About the Game
 This is an android mobile game, based on a pirate theme story. The game is still not available on the google play store. If you want to play this game you have to download this game from here. The game is still in the beta edition. That’s why some functions of this game may not work properly. Feel free to download and test the game before the final release. If you found any bugs while playing the game, please come back to this page and inform us about the bug you found. All of your feedbacks are greatly appreciated.
